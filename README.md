@@ -34,5 +34,5 @@ All outputs and visualizations are preserved for reference.
 
 ## View the Notebook
 
-[Open in Google Colab](https://colab.research.google.com/github/joecre/chicago-taxi-weather-analysis/blob/main/how_rain_affects_taxi_time.ipynb)  
+[Open in Google Colab](https://colab.research.google.com/github/joecre/chicago-taxi-weather-analysis/blob/main/chicago_taxi_weather_analysis.ipynb)  
 [View the Code on GitHub](https://github.com/joecre/chicago-taxi-weather-analysis)
